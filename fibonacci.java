@@ -5,7 +5,7 @@ class fibonacci{
      int second=1;
      int sum=0;
      Scanner sc = new Scanner(System.in);
-     System.out.println("Enter the number");
+     System.out.println("Enter the : number");
      int num = sc.nextInt();
      System.out.println("Fibonacci series:");
      
