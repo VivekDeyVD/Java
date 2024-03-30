@@ -1,4 +1,4 @@
-public class selectionSort {
+class selectionSort {
   public static void main(String [] args){
     int temp;
     int []a={38,52,9,18,6,62,13};
