@@ -13,8 +13,8 @@ class MaxMin{
         }
        
     }
-    System.out.println("the maximum numbe is " + " "+ max);
-    System.out.println("the maximum numbe is " + " "+ min);
+    System.out.println("the maximum number is " + " "+ max);
+    System.out.println("the maximum number is " + " "+ min);
 
 
 }
