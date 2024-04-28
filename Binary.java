@@ -19,3 +19,4 @@ public class BinarySearch {
         }
     }
 }
+//binary search in java logic
