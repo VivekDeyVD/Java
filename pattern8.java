@@ -1,6 +1,6 @@
 // Java Program to print
 // Butterfly Pattern
-import java.util.*;
+
  
 // Java code for printing pattern
 public class Pattern8 {
