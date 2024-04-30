@@ -4,7 +4,7 @@
 import java.util.*;
  
 
-public class GeeksForGeeks {
+public class Pattern11 {
 
     // Function to demonstrate pattern
 
