@@ -1,6 +1,6 @@
 import java.util.Scanner;  
 import java.lang.Math;  
-public class ArmstsrongNumberExample  
+public class JavArmstrong
 {  
 //function to check if the number is Armstrong or not  
 static boolean isArmstrong(int n)   
