@@ -3,7 +3,7 @@
 import java.util.*;
  
 // Java code for printing pattern
-public class GeeksForGeeks {
+public class Pattern8 {
  
     // Function to demonstrate pattern
     public static void printPattern(int n)
