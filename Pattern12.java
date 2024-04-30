@@ -2,7 +2,7 @@
 // Pyramid pattern
 import java.util.*;
  
-public class GeeksForGeeks {
+public class Pattern12 {
     // Function to demonstrate pattern
     public static void printPattern(int n)
     {
