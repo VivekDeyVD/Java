@@ -5,7 +5,7 @@ class FirstDuplicate{
         int temp=0;
         for(int i=0;i<a.length-1;i++){
             for(int j=i+1;j<a.length;j++){
-                if(a[i]==a[j]){
+                if(a[i]==a[j] && (i!=j)){
                     System.out.println( "first duplicate element is   " + a[i]);
                     temp+=1;
                     break;
