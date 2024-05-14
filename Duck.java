@@ -1,4 +1,4 @@
-//import required classes and packages  
+//import required classes and package
 import java.util.*;   
 import java.io.*;   
 import java.util.Scanner;  
