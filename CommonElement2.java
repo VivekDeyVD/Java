@@ -1,7 +1,7 @@
 import java.util.HashSet;
 class CommonElement2{
     public static void main(String[] args){
-        //using hashset
+        //using hashset main
 
         int a1[]={4,3,7,9,2};
         int a2[]={5,1,4,8,3};
