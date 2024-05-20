@@ -19,4 +19,4 @@ public class Binary {
         }
     }
 }
-//binary search in java logic part
+//binary search in java logic
